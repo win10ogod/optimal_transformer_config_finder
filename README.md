@@ -38,10 +38,7 @@ This repository helps you find the optimal configuration for a Transformer model
 
 ### Running the Script
 
-1. Install dependencies:
-    ```bash
-    pip install -r requirements.txt  # No external dependencies required as of now
-    ```
+
 2. Execute the script:
     ```bash
     python optimal_transformer_config_finder.py
